@@ -11,4 +11,7 @@ Chapters
 ### 7. HTML 
 ### 8. Introduction to JavaScript 
 
+Use following link to learn how to write this document.
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
